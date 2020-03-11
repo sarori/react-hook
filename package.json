@@ -1,0 +1,30 @@
+{
+  "name": "@hooks/use-title",
+  "version": "1.0.0",
+  "description": "React hook to update your document's title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarori/react-hook.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "hooks",
+    "title",
+    "hooks"
+  ],
+  "author": "Sarori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarori/react-hook/issues"
+  },
+  "homepage": "https://github.com/sarori/react-hook#readme",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
